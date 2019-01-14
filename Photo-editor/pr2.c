@@ -1,5 +1,6 @@
-// Alex Marlow        TCES 203         tested on Ubuntu 32-bit
-// The fifth copy that is for the extra creddit, pixelates the image in a slighty mosaic fasion.
+// Alex Marlow               tested on Ubuntu 32-bit
+// TThis program creates several different copies of a picture, including brightness change, contrast change, and some 
+//other random ones
 
 #include <stdlib.h>
 #include <stdio.h>
