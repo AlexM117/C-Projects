@@ -1,2 +1,4 @@
 This program simulates a paged memory with a TLB and using FIFO for both page management and the TLB.
 This program takes a list of process addresses as input when calling ./a.out
+The addresses.txt file was provided with the problem specifications, I do not know the sitation but it is 
+just a list of semi-random numbers.
